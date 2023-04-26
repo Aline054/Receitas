@@ -10,7 +10,10 @@ Aplicativo em React Native.
 
 
 
-https://user-images.githubusercontent.com/98822839/234674210-7ef7c744-aa13-4c0f-b57f-451dd4d4c7d2.mp4
+https://user-images.githubusercontent.com/98822839/234677850-cf155366-b022-4f38-bf7e-69ed016547fd.mp4
+
+
+
 
 
 
